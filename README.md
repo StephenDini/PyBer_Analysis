@@ -5,7 +5,7 @@ creating visualizations of rideshare data for PyBer to help improve access to ri
 create a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. Summarize how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 # Results:
-![ride-share-difference]("analysis/ride-share-difference.png")
+![ride-share-difference](analysis/ride-share-difference.png)
 
 Taking a look at the table above, There are a few things to take note of. 
 
@@ -27,6 +27,6 @@ In summery I would recommend three key adjustement.
 
 2) Urban areas is congested with drivers leading to more workers sitting idle and making less. This group would be the best area to source drivers from to send to rural areas. 
 
-![Total Fare by City Type]("analysis/PyBer_fare_summary.png")
+![Total Fare by City Type](analysis/PyBer_fare_summary.png)
 
 3) There are two spikes in fare prices that all match with all areas except for Suburban areas in april. My recommendation is to reach out and extend any form of communication to see why Suburban areas follow the pattern in febuary but not April. 
